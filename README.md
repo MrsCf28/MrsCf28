@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrsCf28
-- 👀 I’m interested in maths, martial arts and now coding
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in maths, martial arts and coding
+- 🌱 I’m currently learning JavaScript via Northcoders
 
 <!---
 MrsCf28/MrsCf28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
